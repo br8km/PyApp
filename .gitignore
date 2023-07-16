@@ -1,0 +1,12 @@
+
+# Ignore Python Cache Files
+__pycache__
+
+# Ignore Data Private Files
+dat/private/
+
+# Ignore Out Files
+out/cache/
+out/debug/
+out/log/
+out/tmp/
